@@ -1,17 +1,30 @@
-Die Elektrolyse bezeichnet einen Prozess, bei dem durch das Zuführen von elektrischer Energie eine Redoxreaktion hervorgerufen wird.
+Die Elektrolyse bezeichnet einen Prozess, bei dem durch das Zuführen von elektrischer Energie 
+eine Redoxreaktion hervorgerufen wird.
 Ein Beispiel hierfür ist die Elektrolyse von Kupferchlorid in folgendem microscale Experiment.
-Es wird ein Spatellöffel Kupfer Chlorid in 50ml Wasser gelöst. Eine paar Tropfen dieser Lösung werden dann auf einen Objektträger getropft, wo sie zwei Elektroden,
-die sich etwa 0,7 cm weit auseinander befinden verbinden und somit das sogenannte Elektrolyt bilden.
-Sobald diese Elektroden mit einer Gleichspannung Stromquelle verbunden werden, beginnt die Elektrolyse. Es bilden sich rote Kupfernadeln an der Kathode und kleine Chorgasbläschen an
-der Anode. Das passiert, weil sich durch die elektrische Energie das CuCl zu Cu und Cl ionen aufspaltet, welche im Fall der positiv geladenen Kationen zur negativen Kathode
-wandern, um dort Elektronen aufzunehmen.
-Die negativen Anionen hingegen werden von der Anode angezogen und geben dort ihre überschüssigen Elektronen ab.
+Es wird ein Spatellöffel Kupfer Chlorid in 50ml Wasser gelöst.
+Eine paar Tropfen dieser Lösung werden dann auf einen Objektträger getropft, wo sie zwei
+Elektroden, die sich etwa 0,7 cm weit auseinander befinden verbinden und somit das sogenannte 
+Elektrolyt bilden.
+Sobald diese Elektroden mit einer Gleichspannung Stromquelle verbunden werden, beginnt die
+Elektrolyse. 
+Es bilden sich rote Kupfernadeln an der Kathode und kleine Chorgasbläschen an der Anode.
+Das passiert, weil sich durch die elektrische Energie das CuCl zu Cu und Cl ionen aufspaltet,
+welche im Fall der positiv geladenen Kationen zur negativen Kathodewandern, um dort Elektronen
+aufzunehmen.
+Die negativen Anionen hingegen werden von der Anode angezogen und geben dort ihre überschüssigen
+Elektronen ab.
 Zurück bleibt nur elementares Kupfer und Chlorgas.
-Die Reaktionsgleichung muss also lauten, Kupferchlorid reagiert zu Kupfer und Chlorid
-Sieht man sich die Oxidationszahlen an, so kann man erkennen, dass das Kupfer Elektronen aufnimmt und das Chlor welche abgibt. Damit ist Kupfer das Kation und
-Chlor das Anion.
-Die Oxidation wie auch die Reaktionsgleichung erfordern ebenfalls keine weiteren Umformungen und können einfach erstellt werden.
+Die Reaktionsgleichung muss also lauten, Kupferchlorid reagiert zu Kupfer und Chlorid Sieht man
+sich die Oxidationszahlen an, so kann man erkennen, dass das Kupfer Elektronen aufnimmt und das
+Chlor welche abgibt.
+Damit ist Kupfer das Kation und Chlor das Anion.
+Die Oxidation wie auch die Reaktionsgleichung erfordern ebenfalls keine weiteren Umformungen und
+können einfach erstellt werden.
 
-/////Eine sehr ähnliche Reaktion lässt sich auch bei der Elektrolyse von Zink Iodid Lösung beobachten, hier bilden sich anstatt der Kupfer Kationen Zink Kationen und
-/////Iod Anionen anstelle der Chlor Anionen.
-/////Die Redoxreaktion verläuft identisch, nur mit den entsprechenden anderen Elementen.
+Eine sehr ähnliche Reaktion lässt sich auch bei der Elektrolyse von Zink Iodid Lösung mit
+demselben Mischverhältnis wie bei der Kupfer Chlorid Lösung beobachten.
+Hier bilden sich anstatt der Kupfer Kationen Zink Kationen und Iod Anionen anstelle der Chlor
+Anionen.
+Die dazugehörige Redoxreaktion lautet:
+Kupferchlorid reagiert zu Kupfer und Chlorid. Ähnlich wie beim Kupfer Chlorid nimmt das Zink
+Elektronen auf und das Iod gibt sie ab.
